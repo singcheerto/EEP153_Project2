@@ -1,77 +1,70 @@
-Person,Food,Quantity,Units,Price,Date,Location,FDC
-Sing,Organic Silken Tofu,31,oz,4.98,2/28/2021,KP Asian Market,1373713
-Sing,Oyster Sauce,18,oz,5.99,2/28/2021,KP Asian Market,1100181
-Sing,Ottogi Gold Mayonnaise,500,g,5.99,2/28/2021,KP Asian Market,1103879
-Sing,Sajo Light Tuna,,,,2/28/2021,KP Asian Market,175160
-Sing,Sanuki Udon,2.45,lb,3.99,2/28/2021,KP Asian Market,548153
-Sing,Squash Zucchini,,,,2/28/2021,KP Asian Market,168565
-Sing,Egg white large,1.5,dozen,,2/28/2021,KP Asian Market,747997
-Sing,Pork belly skin on thick,,,,2/28/2021,KP Asian Market,167812
-Sing,pork belly skinless htin,,,,2/28/2021,KP Asian Market,167812
-Sing,Napa cabbage,4.99,lb,4.94,2/28/2021,KP Asian Market,1276159
-Sing,Crushed red pepper ,,,,2/28/2021,KP Asian Market,1186269
-Sing,Brown rice cake ,,,5.99,2/28/2021,KP Asian Market,167967
-Sing,Salted shrimp,1.1,lb,11.99,2/28/2021,KP Asian Market,1257419
-Haley,Rotisserie Chicken,3,lb,4.99,,Costco,1279544
-Haley,Broccoli Florets,1,lb,8.99,,Costco,1255048
-Haley ,Roasted Hatch Chiles,40,oz,20,,Amazon,1444691
-Haley ,Cholula hot sauce,24,fl oz,9.49,,Costco,1103683
-Haley ,Gluten free rotini,12,oz,1.98,,Walmart,1389904
-Haley ,Bacon crumbles,9,oz,5.98,,walmart,1100488
-Haley ,roasted seaweed snack packs,6,oz,13.49,,costco,1369405
-Haley , banza chickpea pasta,8,oz,2.88,,Walmart ,1100429
-Haley ,corn tortillas,25,oz,1.68,,walmart ,554177
-Haley ,black beans,120,oz,7.99,,costco,1191241
-Haley ,gluten free whole grain bread,12,oz,,,walmart,167599
-Haley ,ragu chunky pasta sauce,24,oz,1.48,,walmart,365264
-Haley ,Rice noodles,8.8,oz,3.29,,target,1267051
-Haley ,boneless skinless chicken breast,3,lb,5.94,,walmart,1266762
-Haley ,diced tomatoes&green chiles,28,oz,2,,walmart,1317898
-Haley,ultra thin turkey slices,9,oz,2.49,,target,1350060
-Alyssa,Org Steel cut oats,,,2.99,1/25/21,Berkeley Bowl,1252490
-Alyssa,Pasta spaghetti,,,2.29,1/25/21,Berkeley Bowl,1278572
-Alyssa,Pasta thin spaghetti,,,2.29,1/25/21,Berkeley Bowl,1285534
-Alyssa,Org Large brown egg,,,4.99,1/25/21,Berkeley Bowl,523412
-Alyssa,Org yellow onions,1,pound,1.49,1/25/21,Berkeley Bowl,790646
-Alyssa,Org zucchini,1,pound,2.29,1/25/21,Berkeley Bowl,595040
-Alyssa,Org green onion,3,,0.99,1/25/21,Berkeley Bowl,1103363
-Alyssa,Org carrots,1,pound,1.29,1/25/21,Berkeley Bowl,1286361
-Alyssa,Org bunched spinach,1,pound,1.29,1/25/21,Berkeley Bowl,1377964
-Alyssa,Org Large yukon gold potato,1,pound,1.69,1/25/21,Berkeley Bowl,1274336
-Alyssa,Org large mushrooms,1,pound,6.5,1/25/21,Berkeley Bowl,1265847
-Alyssa,Challenge unsalted butter,1,,5.99,1/25/21,Berkeley Bowl,731258
-Alyssa,Straus whole milk,,,3.29,1/25/21,Berkeley Bowl,1097512
-Alyssa,Organic rice,,,10.49,1/25/21,Berkeley Bowl,356554
-Alyssa,Org green cabbage,1,pound,1.29,1/25/21,Berkeley Bowl,1103341
-Alyssa,Org Fuji apples,1,pound,1.69,1/25/21,Berkeley Bowl,1414072
-Alyssa,Fair trade bananas,1,pound,1.19,1/25/21,Berkeley Bowl,407274
-Alyssa,Everything bagels,,,2.49,,Trader Joe's,1216182
-Alyssa,Org baby broccoli,,,2.99,,Trader Joe's,1439817
-Alyssa,Org mandarin,2,pound,3.99,,Trader Joe's,169105
-Alyssa,Org tomatoes on the vine,,,3.29,,Trader Joe's,1195102
-Mike,Kirkland Whole Milk,2,Gallons,6.89,,costco,704170
-Mike,Cream Cheese,3,Pounds,9.09,,costco,1204868
-Mike,large eggs,15,dozen,24.69,,costco,578924
-Mike,cheddar cheese,5,pounds,11.99,,costco,1250829
-Mike,ground beef,1,pounds,2.44,,costco,1253531
-Mike,boneless skinless chicken breast,1,pounds,1.84,,costco,1332817
-Mike,Lean ground turkey,6.68,pounds,20.59,,costco,1255363
-Mike,green bell peppers,25,pounds,18.79,,costco,1103371
-Steven,Natural Fresh Chicken Thighs | Antibiotic Free,1.25,pounds,5.99,2/28/21,Amazon Fresh,1451906
-Steven,"Organic Valley Ultra Pasteurized Reduced Fat 2% Organic Milk, Gallon, 128 fl oz",1,gallons,6.79,2/28/21,Amazon Fresh,1259312
-Steven,"Udi's Gluten Free Blueberry Muffins, Frozen, 10 Oz. 4Count, 10 Oz (Frozen)",10,ounces,5.49,2/28/21,Amazon Fresh,363058
-Steven,"365 Everyday Value, Organic Smokehouse Bacon, 8 oz",8,ounces,5.99,2/28/21,Amazon Fresh,1379084
-Steven,Vital Farms Pasture-Raised Large Eggs 18 ct,1.5,dozen,7.99,2/28/21,Amazon Fresh,578924
-Steven,"Organic Hass Avocado, One Large",2,count,4.98,2/28/21,Amazon Fresh,1102652
-Steven,"Lemons, Small, 2 lb bag",2,pounds,2.4,2/28/21,Amazon Fresh,1102594
-Steven,"Dole, Organic Bananas, 2 lb Bag",2,pounds,1.69,2/28/21,Amazon Fresh,407274
-Steven,"Wonderful Halos Mandarins, 3lb Bag",3,pounds,3.77,02/01/21,Amazon Fresh,1369644
-Steven,"Blueberries, 1 Pint",1,pint,3.99,02/01/21,Amazon Fresh,590178
-Steven,"Welch's Fruit Snacks Berries N Cherries, 9 oz",9,ounces,2.99,02/01/21,Amazon Fresh,1247836
-Steven,"Trident Seafoods, Pub House Battered Cod, 12 oz (Frozen)",12,ounces,6.49,02/01/21,Amazon Fresh,1098810
-Steven,"STATE FAIR 100% Beef Corn Dogs, 13.35 Ounce, 5 Count (Frozen)",4,box,11.96,02/01/21,Amazon Fresh,1328670
-Steven,chicken breast ,2.5,pounds,6.59,12/28/20,Hungry Panda,1328384
-Steven,Fish Filet frozen,1.5,pounds,6.99,12/28/20,Hungry Panda,333374
-Steven,California sweet Oranges,3,pounds,3.19,12/28/20,Hungry Panda,1102597
-Steven,Fish cake Frozen,1,pounds,4.99,12/28/20,Hungry Panda,1099380
-Steven,Asparagus,2,pounds,3.98,12/28/20,Hungry Panda,1383906
+Food,Quantity,Units,Price,FDC
+Organic Silken Tofu,31,oz,4.98,1373713
+Oyster Sauce,18,oz,5.99,1100181
+Ottogi Gold Mayonnaise,500,g,5.99,1103879
+Sajo Light Tuna,150,g,5,175160
+Sanuki Udon,2.45,lb,3.99,548153
+Egg white large,1.5,dozen,2.69,747997
+Pork belly skin on thick,1.1,lb,9.81,167812
+pork belly skinless htin,0.92,lb,7.91,167812
+Napa cabbage,4.99,lb,4.94,1276159
+Crushed red pepper ,1,lb,6.95,1186269
+Salted shrimp,1.1,lb,11.99,1257419
+Rotisserie Chicken,3,lb,4.99,1279544
+Broccoli Florets,1,lb,8.99,1255048
+Roasted Hatch Chiles,40,oz,20,1444691
+Cholula hot sauce,24,fl oz,9.49,1103683
+Gluten free rotini,12,oz,1.98,1389904
+Bacon crumbles,9,oz,5.98,1100488
+roasted seaweed snack packs,6,oz,13.49,1369405
+ banza chickpea pasta,8,oz,2.88,1100429
+corn tortillas,25,oz,1.68,554177
+black beans,120,oz,7.99,1191241
+gluten free whole grain bread,12,oz,5.24,167599
+ragu chunky pasta sauce,24,oz,1.48,365264
+Rice noodles,8.8,oz,3.29,1267051
+boneless skinless chicken breast,3,lb,5.94,1266762
+diced tomatoes&green chiles,28,oz,2,1317898
+ultra thin turkey slices,9,oz,2.49,1350060
+Org Steel cut oats,1.8,lb,2.99,1252490
+Org Large brown egg,1,dozen,4.99,523412
+Org yellow onions,1,lb,1.49,790646
+Org zucchini,1,lb,2.29,595040
+Org green onion,3,,0.99,1103363
+Org carrots,1,lb,1.29,1286361
+Org bunched spinach,1,lb,1.29,1377964
+Org Large yukon gold potato,1,lb,1.69,1274336
+Org large mushrooms,1,lb,6.5,1265847
+Challenge unsalted butter,1,lb,5.99,731258
+Straus whole milk,64,oz,3.29,1097512
+Organic rice,10,lb,10.49,356554
+Org green cabbage,1,lb,1.29,1103341
+Org Fuji apples,1,lb,1.69,1414072
+Fair trade bananas,1,lb,1.19,407274
+Org mandarin,2,lb,3.99,169105
+Kirkland Whole Milk,2,gallons,6.89,704170
+Cream Cheese,3,lb,9.09,1204868
+large eggs,15,dozen,24.69,578924
+cheddar cheese,5,lb,11.99,1250829
+ground beef,1,lb,2.44,1253531
+boneless skinless chicken breast,1,lb,1.84,1332817
+Lean ground turkey,6.68,lb,20.59,1255363
+green bell peppers,25,lb,18.79,1103371
+Natural Fresh Chicken Thighs | Antibiotic Free,1.25,lb,5.99,1451906
+"Organic Valley Ultra Pasteurized Reduced Fat 2% Organic Milk, Gallon, 128 fl oz",1,gallons,6.79,1259312
+"Udi's Gluten Free Blueberry Muffins, Frozen, 10 Oz. 4Count, 10 Oz (Frozen)",10,oz,5.49,363058
+"365 Everyday Value, Organic Smokehouse Bacon, 8 oz",8,oz,5.99,1379084
+Vital Farms Pasture-Raised Large Eggs 18 ct,1.5,dozen,7.99,578924
+"Organic Hass Avocado, One Large",2,count,4.98,1102652
+"Lemons, Small, 2 lb bag",2,lb,2.4,1102594
+"Dole, Organic Bananas, 2 lb Bag",2,lb,1.69,407274
+"Wonderful Halos Mandarins, 3lb Bag",3,lb,3.77,1369644
+"Blueberries, 1 Pint",1,pint,3.99,590178
+"Welch's Fruit Snacks Berries N Cherries, 9 oz",9,oz,2.99,1247836
+"Trident Seafoods, Pub House Battered Cod, 12 oz (Frozen)",12,oz,6.49,1098810
+"STATE FAIR 100% Beef Corn Dogs, 13.35 Ounce, 5 Count (Frozen)",21.36,oz,11.96,1328670
+chicken breast ,2.5,lb,6.59,1328384
+Fish Filet frozen,1.5,lb,6.99,333374
+California sweet Oranges,3,lb,3.19,1102597
+Fish cake Frozen,1,lb,4.99,1099380
+Asparagus,2,lb,3.98,1383906
